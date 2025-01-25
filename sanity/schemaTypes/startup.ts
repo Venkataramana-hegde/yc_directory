@@ -1,5 +1,7 @@
 import { UserIcon } from "lucide-react";
 
+
+// define author schema
 export const author = defineType({
   name: "startup",
   title: "Startup",
