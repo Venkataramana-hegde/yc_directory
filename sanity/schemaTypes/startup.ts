@@ -3,6 +3,7 @@ import { UserIcon } from "lucide-react";
 
 // define author schema
 //Debugging schema
+// Another empty commit
 export const author = defineType({
   name: "startup",
   title: "Startup",
